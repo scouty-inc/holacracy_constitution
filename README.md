@@ -4,7 +4,7 @@
 
 [holcracy_constitution_lapras.md](./holcracy_constitution_lapras.md)
 
-※ 現在、[holcracy_constitution_original.md](./holcracy_constitution_original.md) をそのまま運用しています。
+※ 現在、[holcracy_constitution_original_v4.md](./holcracy_constitution_original_v4.md) をそのまま運用しています。
 
 
 ## 参考
